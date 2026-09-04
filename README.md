@@ -93,34 +93,34 @@ EMAIL_FROM="Navjeevan Clinic" <your-email@example.com>
 
 For Gmail, use an **App Password** rather than your normal account password when required by Google's account security settings.
 
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/AboutPage.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/AdminDashboard.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/AIchatbot.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/AppointmentConfirm.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/BookAppointmentForm.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/ContactPage.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/DailyWellnessTracker.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/DoctorDashboard.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/DoctorProfile.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/FertilityTracker.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/HealthTracker.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/HomePage.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/LoginForm.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/MedicalReport.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/MyBookingsPage.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/MyPrescription.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/PatientDashboard.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/PaymentSuccessful.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/PayWithRazorpay.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/PeriodTracker.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/PregnancyTracker.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/PrescriptionPDF.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/ReviewForm.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/ServicesPage.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/ServicesPage.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/SignUpForm.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/VideoConsultationDoctorSide.png)
-## ![Website Screenshots](/Navjeevan_Clinic/screenshots/VideoConsultationPatientSide.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/AboutPage.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/AdminDashboard.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/AIchatbot.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/AppointmentConfirm.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/BookAppointmentForm.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/ContactPage.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/DailyWellnessTracker.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/DoctorDashboard.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/DoctorProfile.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/FertilityTracker.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/HealthTracker.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/HomePage.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/LoginForm.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/MedicalReport.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/MyBookingsPage.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/MyPrescription.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/PatientDashboard.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/PaymentSuccessful.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/PayWithRazorpay.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/PeriodTracker.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/PregnancyTracker.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/PrescriptionPDF.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/ReviewForm.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/ServicesPage.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/ServicesPage.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/SignUpForm.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/VideoConsultationDoctorSide.png)
+## ![Website Screenshots](/Navjeevan_Clinic_Project/screenshots/VideoConsultationPatientSide.png)
                            
 ## Technology
 
@@ -134,7 +134,7 @@ For Gmail, use an **App Password** rather than your normal account password when
 ## Project structure
 
 ```text
-Navjeevan Clinic/
+Navjeevan_Clinic_Project/
 ├── client/
 │   ├── public/
 │   └── src/
@@ -272,7 +272,7 @@ Before the first push:
 git init
 git add .
 git status
-git commit -m "Prepare Navjeevan Clinic production project"
+git commit -m "Navjeevan Clinic Project"
 git branch -M main
 git remote add origin <YOUR_GITHUB_REPOSITORY_URL>
 git push -u origin main
